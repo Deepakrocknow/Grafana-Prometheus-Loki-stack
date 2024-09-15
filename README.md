@@ -1,12 +1,13 @@
 **Monitoring Stack: Prometheus, Grafana, and Loki**
-Overview
+**Overview**
+
 This project implements a robust monitoring system using Grafana, Prometheus, and Loki to provide real-time data visualization, alerting, and log management.
 
 Grafana: Visualization and dashboard management.
 Prometheus: Monitoring and alerting system, pulling metrics from services.
 Loki: Log aggregation system, allowing efficient log queries and visualization within Grafana.
 
-Table of Contents
+**Table of Contents**
 Prometheus Server Setup
 Grafana Setup
 Loki Server Setup
